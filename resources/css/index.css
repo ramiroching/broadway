@@ -5,7 +5,7 @@ h1{
   color: white;
 }
 .bg{
-  background-image: url("/Users/rching/Desktop/Broadway/resources/images/the-flatiron-building.png");
+  background-image: url("resources/images/the-flatiron-building.png");
 }
 h2{
   font-family: Helvetica;
