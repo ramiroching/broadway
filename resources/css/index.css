@@ -1,0 +1,44 @@
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.bg{
+  background-image: url("/Users/rching/Desktop/projects/Broadway/resources/images/the-flatiron-building.png");
+}
+
+p a{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+h1.design{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.left{
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 50px;
+  color: white;
+  background-color: dimgray;
+}
