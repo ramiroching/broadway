@@ -5,11 +5,7 @@ h1{
   color: white;
 }
 .bg{
-<<<<<<< HEAD
   background-image: url("resources/images/the-flatiron-building.png");
-=======
-  background-image: url("/resources/images/the-flatiron-building.png");
->>>>>>> 3a970f9b2cfa3128ec62073627a62a0f2c756a75
 }
 h2{
   font-family: Helvetica;
